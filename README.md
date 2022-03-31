@@ -5,7 +5,3 @@
 <img src="images/WA34_slide_cover_page.png" width="700">   
 
   
-
-
-
-
